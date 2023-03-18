@@ -11,7 +11,7 @@ zydot = [
     pdf: "y",
     printer: ".ai",
     kind: "u16m",
-    flavor: "c",
+    flavor: "t",
     dist: "K",
     new: false,
   },
