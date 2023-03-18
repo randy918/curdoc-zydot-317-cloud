@@ -1,0 +1,195 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: white;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+h2 {
+  color: white;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1;
+}
+
+h3 {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+.green {
+  color: rgb(0, 173, 43);
+}
+
+.blue {
+  color: rgb(26, 161, 217);
+  font-weight: 900;
+}
+
+.yellow {
+  color: rgb(221, 172, 94);
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.bgyellow {
+  background-color: rgb(221, 172, 94);
+}
+
+#tvcHeader {
+  text-align: center;
+}
+
+.v0 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.v1 {
+  margin-top: 7px;
+}
+
+.box {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+body {
+  background: rgb(32, 33, 37);
+  font-family: "Overpass", sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  margin: 0;
+  padding: 3vh 3vw 3vh 3vw;
+}
+
+.flag-image {
+  width: 180px;
+  height: auto;
+}
+
+.product-image {
+  width: 180px;
+  height: auto;
+  margin-top: 0.5rem;
+}
+
+#gridContainer {
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: repeat(auto-fill, 180px);
+  grid-auto-flow: row;
+  align-items: start;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.btn {
+  display: inline-block;
+  background-color: rgb(26, 161, 217);
+  border: none;
+  width: 85px;
+  text-align: center;
+  font-size: 16px;
+  padding: 0px 0px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: rgb(43, 50, 56);
+  color: rgb(221, 172, 94);
+}
+
+.btn2 {
+  background-color: rgb(194, 47, 51);
+  border: none;
+  width: 85px;
+  color: rgb(221, 172, 94);
+  text-align: center;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.btn2:hover {
+  background-color: rgb(43, 50, 56);
+  color: rgb(221, 172, 94);
+}
+
+.main-logo2 {
+  width: clamp(100px, 50%, 300px);
+  margin-bottom: 0.3em;
+}
+
+.radio {
+  overflow: hidden;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin: 1rem;
+}
+.radio__input {
+  display: none;
+}
+.radio__input:hover + .radio__label {
+  background-image: linear-gradient(to bottom, #73e67a, #61cc4b);
+  color: black;
+  transition: 0.3s;
+}
+.radio__input:checked + .radio__label {
+  background: white;
+  color: black;
+}
+.radio__label {
+  background-image: linear-gradient(to bottom, #e60808, #570410);
+  border-radius: 2rem;
+  cursor: pointer;
+  margin: 0 0.3rem;
+  padding: 0.25em 1.02em;
+  font-family: Arial;
+  font-size: clamp(0.75rem, 1.51vw, 1.25rem);
+  font-weight: 200;
+  letter-spacing: 0.05rem;
+}
+
+.radio2 {
+  overflow: hidden;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin: 1rem;
+}
+.radio2__input {
+  display: none;
+}
+.radio2__input:hover + .radio2__label {
+  background-image: linear-gradient(to bottom, #73e67a, #61cc4b);
+  color: black;
+  transition: 0.3s;
+}
+.radio2__input:checked + .radio2__label {
+  background: white;
+  color: black;
+}
+.radio2__label {
+  background-image: linear-gradient(to bottom, #12b984, #063780);
+  border-radius: 2rem;
+  cursor: pointer;
+  margin: 0 0.3rem;
+  padding: 0.25em 1.02em;
+  font-family: Arial;
+  font-size: clamp(0.75rem, 1.51vw, 1.25rem);
+  font-weight: 200;
+  letter-spacing: 0.05rem;
+}/*# sourceMappingURL=main.css.map */
