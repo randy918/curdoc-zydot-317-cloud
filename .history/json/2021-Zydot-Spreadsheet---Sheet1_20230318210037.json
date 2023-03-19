@@ -121,7 +121,7 @@ zydot = [
     new: false,
   },
   {
-    row: 8,
+    row: 5,
     date: "July 24, 2020",
     title: "Kulu Euro Blend 16 Mix Wild Cherry German-Italian",
     country: "German-Italian",
@@ -136,7 +136,7 @@ zydot = [
     new: false,
   },
   {
-    row: 9,
+    row: 6,
     date: "July 24, 2020",
     title: "Kulu Euro Blend 16 Mix Orange German-Italian",
     country: "German-Italian",
