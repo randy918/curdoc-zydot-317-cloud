@@ -27,7 +27,7 @@ zydot = [
     kind: "u16m",
     flavor: "t",
     dist: "K",
-    new: false,
+    new: true,
   },
     {
     row: "NEW 2",
@@ -42,7 +42,7 @@ zydot = [
     kind: "u16m",
     flavor: "o",
     dist: "K",
-    new: false,
+    new: true,
   },
   {
     row: "NEW 3",
@@ -57,7 +57,7 @@ zydot = [
     kind: "u16m",
     flavor: "o",
     dist: "K",
-    new: false,
+    new: true,
   },
 
    {
@@ -208,7 +208,7 @@ zydot = [
     kind: "u16d",
     flavor: "t",
     dist: "Z",
-    new: true,
+    new: false,
   },
   {
     row: 14,
@@ -223,7 +223,7 @@ zydot = [
     kind: "u16d",
     flavor: "c",
     dist: "Z",
-    new: true,
+    new: false,
   },
   {
     row: 15,
@@ -238,7 +238,7 @@ zydot = [
     kind: "u16d",
     flavor: "o",
     dist: "Z",
-    new: true,
+    new: false,
   },
   {
     row: 16,
@@ -298,7 +298,7 @@ zydot = [
     kind: "u32d",
     flavor: "t",
     dist: "Z",
-    new: true,
+    new: false,
   },
   {
     row: 20,
@@ -313,7 +313,7 @@ zydot = [
     kind: "u32d",
     flavor: "c",
     dist: "Z",
-    new: true,
+    new: false,
   },
   {
     row: 21,
@@ -328,7 +328,7 @@ zydot = [
     kind: "u32d",
     flavor: "o",
     dist: "Z",
-    new: true,
+    new: false,
   },
   {
     row: 22,
@@ -464,6 +464,21 @@ zydot = [
     flavor: "o",
     dist: "O",
     new: false,
+  },
+  {
+    row: "NEW 31",
+    date: "January 19, 2023",
+    title: "Zydot Ultra Clean Sachet 1 USA",
+    country: "USA",
+    code: "ZUCS1U",
+    datecode: 11923,
+    product: "C",
+    pdf: "y",
+    printer: ".ai",
+    kind: "ultraclean",
+    flavor: "0",
+    dist: "Z",
+    new: true,
   },
   {
     row: 28,
