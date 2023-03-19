@@ -241,7 +241,7 @@ zydot = [
     new: true,
   },
   {
-    row: 16,
+    row: 1,
     date: "November 4, 2021",
     title: "Zydot Ultimate Blend 16 Mix Tropical Ice USA",
     country: "USA",
@@ -256,7 +256,7 @@ zydot = [
     new: false,
   },
   {
-    row: 17,
+    row: 14,
     date: "November 4, 2021",
     title: "Zydot Ultimate Blend 16 Mix Cherry USA",
     country: "USA",
@@ -271,7 +271,7 @@ zydot = [
     new: false,
   },
   {
-    row: 18,
+    row: 15,
     date: "November 4, 2021",
     title: "Zydot Ultimate Blend 16 Mix Orange USA",
     country: "USA",
