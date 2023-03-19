@@ -29,23 +29,9 @@ zydot = [
     dist: "K",
     new: false,
   },
-    {
-    row: "NEW 2",
-    date: "January 19, 2023",
-    title: "La Cabra Euro Blend 16 Mix Wild Cherry Chile",
-    country: "Chile",
-    code: "LEB16MCC",
-    datecode: 11923,
-    product: "E",
-    pdf: "y",
-    printer: ".ai",
-    kind: "u16m",
-    flavor: "o",
-    dist: "K",
-    new: false,
-  },
+  
   {
-    row: "NEW 3",
+    row: "NEW 2",
     date: "January 19, 2023",
     title: "La Cabra Euro Blend 16 Mix Orange Chile",
     country: "Chile",
@@ -61,7 +47,7 @@ zydot = [
   },
 
    {
-    row: 4,
+    row: 1,
     date: "December 19, 2018",
     title: "Kulu Euro Blend 16 Mix Tropical Punch English-Spanish",
     country: "English-Spanish",
@@ -76,7 +62,7 @@ zydot = [
     new: false,
   },
   {
-    row: 5,
+    row: 2,
     date: "December 19, 2018",
     title: "Kulu Euro Blend 16 Mix Wild Cherry English-Spanish",
     country: "English-Spanish",
@@ -91,7 +77,7 @@ zydot = [
     new: false,
   },
   {
-    row: 6,
+    row: 3,
     date: "December 19, 2018",
     title: "Kulu Euro Blend 16 Mix Orange English-Spanish",
     country: "English-Spanish",
