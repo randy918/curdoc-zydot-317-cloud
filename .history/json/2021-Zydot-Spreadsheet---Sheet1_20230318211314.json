@@ -301,7 +301,7 @@ zydot = [
     new: true,
   },
   {
-    row: 20,
+    row: "NEW 17",
     date: "May 2, 2022",
     title: "Zydot Ultimate Blend 32 Drink Wild Cherry USA",
     country: "USA",
@@ -316,7 +316,7 @@ zydot = [
     new: true,
   },
   {
-    row: 21,
+    row: "NEW 18",
     date: "May 2, 2022",
     title: "Zydot Ultimate Blend 32 Drink Orange USA",
     country: "USA",
