@@ -492,7 +492,7 @@ zydot = [
     printer: ".pdf",
     kind: "ultraclean",
     flavor: "0",
-    dist: "K",
+    dist: "Z",
     new: true,
   },
   {
@@ -522,7 +522,7 @@ zydot = [
     printer: ".pdf",
     kind: "ultraclean",
     flavor: "0",
-    dist: "K",
+    dist: "Z",
     new: true,
   },
   {
@@ -537,7 +537,7 @@ zydot = [
     printer: ".pdf",
     kind: "ultraclean",
     flavor: "0",
-    dist: "K",
+    dist: "Z",
     new: true,
   },
   {
@@ -709,7 +709,7 @@ zydot = [
 
 
   {
-    row: 47,
+    row: 4,
     date: "November 11, 2021",
     title: "Zydot Logo 3-Inch Wide Curved",
     country: "USA",
@@ -724,7 +724,7 @@ zydot = [
     new: false,
   },
   {
-    row: 48,
+    row: 43,
     date: "January 2, 2022",
     title: "Zydot Logo Lighter",
     country: "USA",
@@ -739,7 +739,7 @@ zydot = [
     new: false,
   },
   {
-    row: 49,
+    row: 44,
     date: "January 3, 2022",
     title: "Zydot 2023 Price List",
     country: "USA",

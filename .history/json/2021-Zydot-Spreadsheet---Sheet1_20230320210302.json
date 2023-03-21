@@ -492,7 +492,7 @@ zydot = [
     printer: ".pdf",
     kind: "ultraclean",
     flavor: "0",
-    dist: "K",
+    dist: "Z",
     new: true,
   },
   {
@@ -522,7 +522,7 @@ zydot = [
     printer: ".pdf",
     kind: "ultraclean",
     flavor: "0",
-    dist: "K",
+    dist: "Z",
     new: true,
   },
   {
