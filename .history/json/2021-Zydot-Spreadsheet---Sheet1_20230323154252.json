@@ -118,7 +118,7 @@ zydot = [
     kind: "u16m",
     flavor: "t",
     dist: "K",
-    new: true,
+    new: ,
   },
   {
     row: "NEW 8",
@@ -133,7 +133,7 @@ zydot = [
     kind: "u16m",
     flavor: "c",
     dist: "K",
-    new: true,
+    new: ,
   },
   {
     row: "NEW 9",
@@ -148,7 +148,7 @@ zydot = [
     kind: "u16m",
     flavor: "o",
     dist: "K",
-    new: true,
+    new: ,
   },
   {
     row: 10,
