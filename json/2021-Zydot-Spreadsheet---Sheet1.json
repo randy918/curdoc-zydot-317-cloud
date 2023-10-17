@@ -739,19 +739,19 @@ zydot = [
     new: false,
   },
   {
-    row: 49,
-    date: "January 3, 2022",
+    row: "NEW 49",
+    date: "October 17, 2023",
     title: "Zydot 2023 Price List",
     country: "USA",
     code: "ZPRICELIST",
-    datecode: 10523,
+    datecode: 101723,
     product: "M",
     pdf: "y",
     printer: ".pdf",
     kind: "misc",
     flavor: "0",
     dist: "Z",
-    new: false,
+    new: true,
   },
 
 ];
